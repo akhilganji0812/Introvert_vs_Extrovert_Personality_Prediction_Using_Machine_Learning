@@ -1,0 +1,2 @@
+# Introvert_vs_Extrovert_Personality_Prediction_Using_Machine_Learning
+A machine learning model using K-Nearest Neighbors (KNN) classifies individuals as introverts or extroverts based on given parameters. By analyzing specific traits, the model predicts personality type, showcasing how KNN can effectively distinguish between introverted and extroverted behaviors through data-driven classification.
